@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YAN Yinzhao - Home"
+title                    : "YAN Yinzhao"
 title_separator          : "-"
 name                     : &name "YAN Yinzhao"
 description              : &description "Ph.D. student, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology"
