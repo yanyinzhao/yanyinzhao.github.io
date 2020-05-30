@@ -1,50 +1,102 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# Biography
+ I am currently a first year PhD student in the [Department of Computer Science and Engineering](https://www.cse.ust.hk) (CSE), [Hong Kong University of Science and Technology](http://www.ust.hk) (HKUST), supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+ I received my BSc degree in Computer Science in the [Hong Kong Baptist University](https://www.hkbu.edu.hk/eng/main/index.jsp) (HKBU) in 2020. My undergraduate research was supervised by [Prof. Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+ From Septembers 2018 to January 2019, I was an exchange student at [Leiden University](https://www.universiteitleiden.nl/en) in the Netherlands.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+---
+# Research Interest
+ My research interest lies in the intersection of the theory and practice of database, deep learning, data mining and machine learning. My current focus is on detecting vulnerability in cybersecurity by using deep learning based system and using skyline queries & spatial matching queries in solving database questions.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
+# Education
+ * **PhD, Department of Computer Science and Engineering, Hong Kong University of Science and Technology** [Aug 2020 - Precent] *Hong Kong*  
+    * Supervisor: Prof. Raymond Chi-Wing Wong  
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+ * **BSc, Department of Computer Science, Hong Kong Baptist University** [Aug 2016 - Jul 2020] *Hong Kong*  
+    * Supervisor: Prof. Jiming Liu  
+    * Top 2% of the class
 
-**Markdown generator**
+ * **Exchange student, Leiden University** [Sep 2018  - Jan 2019] *Leiden, the Netherlands*  
+    * Exchange
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+---
+# Research Experience
+ * **Research Intern, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology** [Jan 2020 – Aug 2020] *Hong Kong*  
+    * Supervisor: Prof. Raymond Chi-Wing Wong  
+    * Research on application of geodesic distance for 3D terrain and noise sensitive of geodesic distance for 3D terrain
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+ * **Research Intern, School of Information Studies, McGill University** [June 2019 - Aug 2019] *Montreal, Canada*  
+    * Supervisor: [Prof. Benjamin Fung](http://dmas.lab.mcgill.ca/fung/index.htm) and [Dr. William Kwok Wai Cheung](https://www.comp.hkbu.edu.hk/~william/)  
+    * Research on deep learning for cybersecurity and vulnerability analysis
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+---
+# Work Experience
+ * **Intern, Information Technology Department & Student Services Department, UNSW Global Pty Limited** [June 2018 - Aug 2018] *Sydney, Australia*  
+    * Involved in annual stocktake
+    * Helped with incoming students’ orientation
+    * Designed buttons for the intranet using Photoshop
+    * Participated in software registration by Excel
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ * **Intern, Sinochem International Tendering Co. Ltd.** [June 2017 - July 2017] *Beijing, China*  
+    * Wrote tendering documents
+    * Contributed in tender opening & evaluation meeting
+    * Published tendering announcement by ‘China Bidding’ Website
+    * Participated in financial management
+
+ * **Intern, Uranus International Education Co., Limited (Prudential)** [Jan 2017 - June 2017] *Hong Kong*  
+    * Created a public website for the company
+    * Engaged in writing PRU Quote for client
+    * Responsible for classifying curriculum vitaes by Excel
+    * Drew up an invitation by MAKA
+
+---
+# Awards and Scholarships
+ * **Postgraduate Studentship** <ins>*HK$18030 per month*</ins> (acceptance 440/300000 = 0.15%) provided by *HKUST* [2020 - 2024]
+
+ * **Faculty of Science Overseas Summer Research Scholarship Scheme** <ins>*HK$30000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2019]
+
+ * **Former Civil Engineering Department Head Dr. Yan Sze Kwan Memorial Scholarship** <ins>*HK$20000*</ins> (acceptance 1/10000 = 0.01%) provided by *HKBU* [2019]
+
+ * **Student Exchange Programme Sponsorship** <ins>*HK$20000*</ins> (acceptance 200/10000 = 2%) provided by *HKBU* [2019]
+
+ * **Undergraduate Scholarship in Computer Science** <ins>*HK$12000*</ins> (acceptance 10/200 = 5%) provided by *HKBU* [2017]
+
+ * **HKSAR Government Reaching Out Award** <ins>*HK$10000*</ins> (acceptance 200/10000 = 2%) provided by *HKSAR government* [2018]
+
+ * **Vincent Woo Scholarship Scheme for Outstanding Mainland Students** <ins>*HK$10000*</ins> (acceptance 2/10000 = 0.02%) provided by *HKBU* [2019]
+
+ * **Student Scholarships Scheme** <ins>*HK$8400*</ins> (acceptance 50/5000 = 1%) provided by *HKBU* [2018]
+
+ * **Outstanding Student Scholarship** <ins>*HK$6000*</ins> (acceptance 10/200 = 5%) provided by *HKBU* [2018]
+
+ * **Mingxi Youth Award Scheme** <ins>*HK$5000*</ins> (acceptance 10/200 = 5%) provided by *Mingxi foundation* [2018]
+
+ * **Departmental Scholarship Scheme in Metropolitan Attachment Programme** <ins>*HK$2000*</ins> (acceptance 2/200 = 1%) provided by *HKBU* [2018]
+
+ * **Computer Science Department Alumni Scholarship** <ins>*HK$1000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2018]
+
+ * **Computer Science Department Alumni Scholarship** <ins>*HK$1000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2019]
+
+---
+# Teaching Experience
+ * Assistant, **COMP 2016 Database Management** *HKBU* (Spring 2020)
+
+ * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Fall 2019)
+
+ * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Spring 2019)
+
+ * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Spring 2018)
+
+ * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Fall 2017)

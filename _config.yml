@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YAN Yinzhao"
+title                    : "YAN Yinzhao - Home"
 title_separator          : "-"
 name                     : &name "YAN Yinzhao"
 description              : &description "Ph.D. student, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "yanyinzhao0329@gmail.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yinzhao-yan-44230015a"
-  orcid            : 
+  linkedin         : "yinzhao-yan-44230015a"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
