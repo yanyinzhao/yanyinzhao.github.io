@@ -25,6 +25,7 @@ redirect_from:
     * Supervisor: Prof. Raymond Chi-Wing Wong  
 
  * **BSc, Department of Computer Science, Hong Kong Baptist University** [Aug 2016 - Jul 2020] *Hong Kong*  
+    * First class honours  
     * Supervisor: Prof. Jiming Liu  
     * Top 2% of the class
 
