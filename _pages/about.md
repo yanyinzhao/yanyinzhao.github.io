@@ -101,3 +101,11 @@ redirect_from:
  * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Spring 2018)
 
  * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Fall 2017)
+
+---
+# Competition
+ * First-runner-up of IEEE (HK) Computational Intelligence Chapter FYP and PG Paper Competition [Dec 2020]
+
+ * YDC Dare To Change Business Pitch Competition [April 2018]
+
+ * Hong Kong Institution of Engineers Joint Student Chapters Competition [April 2018]
