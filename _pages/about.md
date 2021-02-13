@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 # Research Interest
- My research interest lies in the intersection of the theory and practice of database, deep learning, data mining and machine learning. My current focus is on detecting vulnerability in cybersecurity by using deep learning based system and using skyline queries & spatial matching queries in solving database questions.
+ My research interest lies in the intersection of the theory and practice of database queries and data mining. My current focus is on finding time-efficiency algorithm in 3D terrain geodesic shortest path.
 
 ---
 # Education
