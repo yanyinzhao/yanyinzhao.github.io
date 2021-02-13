@@ -92,6 +92,8 @@ redirect_from:
 
 ---
 # Teaching Experience
+* Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2021)
+
  * Assistant, **COMP 2016 Database Management** *HKBU* (Spring 2020)
 
  * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Fall 2019)
