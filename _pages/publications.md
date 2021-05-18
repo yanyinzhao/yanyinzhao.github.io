@@ -4,4 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-N/A
+
+* **Yinzhao Yan**, Raymond Chi-Wing Wong,  
+"*Path Advisor: A Multi-Functional Campus Map Tool for Shortest Path*",    
+the 47th International Conference on Very Large Data Bases (VLDB'21), Copenhagen, Denmark on 16 - 20 Aug, 2021
