@@ -99,7 +99,9 @@ redirect_from:
 
 ---
 # Teaching Experience
-* Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2021)
+ * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2022)
+
+ * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2021)
 
  * Assistant, **COMP 2016 Database Management** *HKBU* (Spring 2020)
 
