@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Biography
- I am currently a PhD student in the [Department of Computer Science and Engineering](https://www.cse.ust.hk) (CSE), [Hong Kong University of Science and Technology](http://www.ust.hk) (HKUST), supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/).
+ I am currently a PhD candidate in the [Department of Computer Science and Engineering](https://www.cse.ust.hk) (CSE), [Hong Kong University of Science and Technology](http://www.ust.hk) (HKUST), supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/).
 
  I received my BSc degree in Computer Science in the [Hong Kong Baptist University](https://www.hkbu.edu.hk/eng/main/index.jsp) (HKBU) in 2020. My undergraduate research was supervised by [Prof. Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
 
