@@ -95,7 +95,7 @@ redirect_from:
 ---
 # Services
 
-* Reviewers: SIGSPATIAL21, VLDB2022
+* Reviewers: SIGSPATIAL21, VLDB2022, ICDM22, SIGSPATIAL22
 
 ---
 # Teaching Experience
