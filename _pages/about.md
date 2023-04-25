@@ -95,7 +95,7 @@ redirect_from:
 ---
 # Services
 
-* Reviewers: SIGSPATIAL21, VLDB22, ICDM22, SIGSPATIAL22, VLDB23, MDM23
+* Reviewers: SIGSPATIAL21, VLDB22, ICDM22, SIGSPATIAL22, VLDB23, MDM23, TKDE24
 
 ---
 # Teaching Experience
