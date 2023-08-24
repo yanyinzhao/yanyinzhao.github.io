@@ -99,6 +99,8 @@ redirect_from:
 
 ---
 # Teaching Experience
+ * Teaching Assistant, **CSIT 5210 Data Mining and Knowledge Discovery** *HKUST* (Fall 2023)
+
  * Teaching Assistant, **CORE 1232 Exploring and Visualizing Data** *HKUST* (Spring 2023)
 
  * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2022)
