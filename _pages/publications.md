@@ -7,7 +7,7 @@ author_profile: true
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Proximity Queries on Point Clouds using Rapid Construction Path Oracle*",    
-the 2024 ACM Conference on Management of Data (SIGMOD), Santiago, Chile on 9-15 June, 2024
+the 2024 ACM Conference on Management of Data (SIGMOD), Santiago, Chile on 9 - 15 June, 2024
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Path Advisor: A Multi-Functional Campus Map Tool for Shortest Path*",    
