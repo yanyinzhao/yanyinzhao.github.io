@@ -8,7 +8,7 @@ author_profile: true
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Proximity Queries on Point Clouds using Rapid Construction Path Oracle*",    
 the 2024 ACM Conference on Management of Data (SIGMOD), Santiago, Chile on 9 - 15 June, 2024
-[[pdf]](https://yanyinzhao.github.io/files/PointCloudRCOracle/PointCloudRCOracle-paper.pdf) 
+[[pdf]](https://yanyinzhao.github.io/files/PointCloudRCOracle/PointCloudRCOracle-paper.pdf) | [[code]](https://github.com/yanyinzhao/PointCloudPathCode) 
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Path Advisor: A Multi-Functional Campus Map Tool for Shortest Path*",    
