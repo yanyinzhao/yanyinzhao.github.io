@@ -75,7 +75,7 @@ redirect_from:
 
  * **Undergraduate Scholarship in Computer Science** <ins>*HK$12000*</ins> (acceptance 10/200 = 5%) provided by *HKBU* [2017]
 
- * **VLDB 2021: SPEND attendance support** <ins>*EU$1500* = *HK$11700*</ins> (acceptance 20/170 = 11.76%) provided by *VLDB 2021* [2021]
+ * **VLDB 2021: SPEND attendance support** <ins>*EU$1500*</ins> = <ins>*HK$11700*</ins> (acceptance 20/170 = 11.76%) provided by *VLDB 2021* [2021]
 
  * **Vincent Woo Scholarship Scheme for Outstanding Mainland Students** <ins>*HK$10000*</ins> (acceptance 2/10000 = 0.02%) provided by *HKBU* [2019]
 
