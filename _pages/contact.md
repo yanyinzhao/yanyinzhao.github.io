@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 ## Email
-yyanas [AT] connect.ust.hk
+[click here](https://yanyinzhao.github.io/images/contact.png)
