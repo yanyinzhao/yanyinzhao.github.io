@@ -63,40 +63,46 @@ redirect_from:
 
 ---
 # Awards and Scholarships
- * **Postgraduate Studentship** <ins>*HK$18390 per month*</ins> (acceptance 440/300000 = 0.15%) provided by *HKUST* [2020 - 2024]
+<!---
+ * **IEEE MDM 2024 Award** <ins>*EUR 1100*</ins> = <ins>*HKD 9300*</ins> (acceptance 5/21 = 23.81%) provided by *IEEE MDM 2024* [2024]
 
- * **Faculty of Science Overseas Summer Research Scholarship Scheme** <ins>*HK$30000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2019]
+ * **ACM SIGMOD 2024 Travel Grant** <ins>*USD 1000*</ins> = <ins>*HKD 7800*</ins> (acceptance 10/213 = 4.69%) provided by *ACM SIGMOD 2024* [2024]
+-->
 
- * **Former Civil Engineering Department Head Dr. Yan Sze Kwan Memorial Scholarship** <ins>*HK$20000*</ins> (acceptance 1/10000 = 0.01%) provided by *HKBU* [2019]
+ * **Research Travel Grant for SIGMOD 2024** <ins>*HKD 13500*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
 
- * **Student Exchange Programme Sponsorship** <ins>*HK$20000*</ins> (acceptance 200/10000 = 2%) provided by *HKBU* [2019]
+ * **VLDB 2021: SPEND attendance support** <ins>*EUR 1500*</ins> = <ins>*HKD 11700*</ins> (acceptance 20/170 = 11.76%) provided by *VLDB 2021* [2021]
+ 
+ * **Postgraduate Studentship** <ins>*HKD 18390 per month*</ins> (acceptance 440/300000 = 0.15%) provided by *HKUST* [2020 - 2024]
 
-  * **Research Travel Grant for SIGMOD 2024** <ins>*HK$13500*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
+ * **Faculty of Science Overseas Summer Research Scholarship Scheme** <ins>*HKD 30000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2019]
 
- * **Undergraduate Scholarship in Computer Science** <ins>*HK$12000*</ins> (acceptance 10/200 = 5%) provided by *HKBU* [2017]
+ * **Former Civil Engineering Department Head Dr. Yan Sze Kwan Memorial Scholarship** <ins>*HKD 20000*</ins> (acceptance 1/10000 = 0.01%) provided by *HKBU* [2019]
 
- * **VLDB 2021: SPEND attendance support** <ins>*EU$1500*</ins> = <ins>*HK$11700*</ins> (acceptance 20/170 = 11.76%) provided by *VLDB 2021* [2021]
+ * **Student Exchange Programme Sponsorship** <ins>*HKD 20000*</ins> (acceptance 200/10000 = 2%) provided by *HKBU* [2019]
 
- * **Vincent Woo Scholarship Scheme for Outstanding Mainland Students** <ins>*HK$10000*</ins> (acceptance 2/10000 = 0.02%) provided by *HKBU* [2019]
+ * **Vincent Woo Scholarship Scheme for Outstanding Mainland Students** <ins>*HKD 10000*</ins> (acceptance 2/10000 = 0.02%) provided by *HKBU* [2019]
 
- * **HKSAR Government Reaching Out Award** <ins>*HK$10000*</ins> (acceptance 200/10000 = 2%) provided by *HKSAR government* [2018]
+ * **Computer Science Department Alumni Scholarship** <ins>*HKD 1000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2019]
 
- * **Student Scholarships Scheme** <ins>*HK$8400*</ins> (acceptance 50/5000 = 1%) provided by *HKBU* [2018]
+ * **HKSAR Government Reaching Out Award** <ins>*HKD 10000*</ins> (acceptance 200/10000 = 2%) provided by *HKSAR government* [2018]
 
- * **Outstanding Student Scholarship** <ins>*HK$6000*</ins> (acceptance 10/200 = 5%) provided by *HKBU* [2018]
+ * **Student Scholarships Scheme** <ins>*HKD 8400*</ins> (acceptance 50/5000 = 1%) provided by *HKBU* [2018]
 
- * **Mingxi Youth Award Scheme** <ins>*HK$5000*</ins> (acceptance 10/200 = 5%) provided by *Mingxi foundation* [2018]
+ * **Outstanding Student Scholarship** <ins>*HKD 6000*</ins> (acceptance 10/200 = 5%) provided by *HKBU* [2018]
 
- * **Departmental Scholarship Scheme in Metropolitan Attachment Programme** <ins>*HK$2000*</ins> (acceptance 2/200 = 1%) provided by *HKBU* [2018]
+ * **Mingxi Youth Award Scheme** <ins>*HKD 5000*</ins> (acceptance 10/200 = 5%) provided by *Mingxi foundation* [2018]
 
- * **Computer Science Department Alumni Scholarship** <ins>*HK$1000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2019]
+ * **Departmental Scholarship Scheme in Metropolitan Attachment Programme** <ins>*HKD 2000*</ins> (acceptance 2/200 = 1%) provided by *HKBU* [2018]
 
- * **Computer Science Department Alumni Scholarship** <ins>*HK$1000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2018]
+ * **Computer Science Department Alumni Scholarship** <ins>*HKD 1000*</ins> (acceptance 3/200 = 1.5%) provided by *HKBU* [2018]
+
+ * **Undergraduate Scholarship in Computer Science** <ins>*HKD 12000*</ins> (acceptance 10/200 = 5%) provided by *HKBU* [2017]
 
 ---
 # Services
 
-* **Reviewers**: SIGSPATIAL21, VLDB22, ICDM22, SIGSPATIAL22, VLDB23, MDM23, SSTD23, SIGSPATIAL23, TKDE24
+* **Reviewers**: TKDE24, SIGSPATIAL23, SSTD23, MDM23, VLDB23, SIGSPATIAL22, ICDM22, VLDB22, SIGSPATIAL21
 
 ---
 # Teaching Experience

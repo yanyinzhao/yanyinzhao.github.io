@@ -9,6 +9,7 @@ author_profile: true
 "*Efficient Shortest Path Queries on 3D Weighted
 Terrain Surfaces for Moving Objects*",    
 the 25th IEEE International Conference on Mobile Data Management (MDM 2024), Brussels, Belgium on 24 - 27 June, 2024 (Acceptance 21/78 = 26.92%)
+[[pdf]](https://yanyinzhao.github.io/files/WeightedTerrain/WeightedTerrain-paper.pdf) | [[code]](https://github.com/yanyinzhao/WeightedTerrainCode) 
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Proximity Queries on Point Clouds using Rapid Construction Path Oracle*",    
