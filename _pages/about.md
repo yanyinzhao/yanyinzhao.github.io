@@ -64,11 +64,6 @@ redirect_from:
 ---
 # Awards and Scholarships
  * **Research Travel Grant for SIGMOD 2024** <ins>*HKD 13500*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
-<!---
- * **IEEE MDM 2024 Award** <ins>*EUR 1100*</ins> = <ins>*HKD 9300*</ins> (acceptance 5/21 = 23.81%) provided by *IEEE MDM 2024* [2024]
-
- * **ACM SIGMOD 2024 Travel Grant** <ins>*USD 1000*</ins> = <ins>*HKD 7800*</ins> (acceptance 10/213 = 4.69%) provided by *ACM SIGMOD 2024* [2024]
--->
 
  * **VLDB 2021: SPEND attendance support** <ins>*EUR 1500*</ins> = <ins>*HKD 11700*</ins> (acceptance 20/170 = 11.76%) provided by *VLDB 2021* [2021]
  
