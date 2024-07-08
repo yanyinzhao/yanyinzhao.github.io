@@ -63,9 +63,19 @@ redirect_from:
 
 ---
 # Awards and Scholarships
+ * **HKUST RedBird Academic Excellence Award for Continuing PhD Students** <ins>*HKD 20000*</ins> (acceptance 68/6842 = 0.99%) provided by *HKUST* [2024]
+ 
+ * **MDM 2024 Best Paper Award** (acceptance 1/21 = 4.76%) provided by *MDM 2024*
+
+ * **Research Travel Grant for MDM 2024** <ins>*HKD 13500*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
+
  * **Research Travel Grant for SIGMOD 2024** <ins>*HKD 13500*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
 
- * **VLDB 2021: SPEND attendance support** <ins>*EUR 1500*</ins> = <ins>*HKD 11700*</ins> (acceptance 20/170 = 11.76%) provided by *VLDB 2021* [2021]
+ * **MDM 2024 Award** <ins>*EUR 1100*</ins> = <ins>*HKD 9300*</ins> (acceptance 5/21 = 23.81%) provided by *MDM 2024* [2024]
+
+ * **SIGMOD 2024 Travel Grant** <ins>*USD 1000*</ins> = <ins>*HKD 7800*</ins> (acceptance 10/213 = 4.69%) provided by *SIGMOD 2024* [2024]
+
+ * **VLDB 2021 SPEND attendance support** <ins>*EUR 1500*</ins> = <ins>*HKD 11700*</ins> (acceptance 20/170 = 11.76%) provided by *VLDB 2021* [2021]
  
  * **Postgraduate Studentship** <ins>*HKD 18390 per month*</ins> (acceptance 440/300000 = 0.15%) provided by *HKUST* [2020 - 2024]
 
