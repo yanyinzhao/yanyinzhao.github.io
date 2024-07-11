@@ -67,7 +67,7 @@ redirect_from:
  
  * **MDM 2024 Best Paper Award** (acceptance 1/21 = 4.76%) provided by *MDM 2024*
 
- * **Research Travel Grant for MDM 2024** <ins>*HKD 13500*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
+ * **Research Travel Grant for MDM 2024** <ins>*HKD 11000*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
 
  * **Research Travel Grant for SIGMOD 2024** <ins>*HKD 13500*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
 
