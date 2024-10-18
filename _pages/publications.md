@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Yinzhao Yan**, Raymond Chi-Wing Wong, Christian S. Jensen 
+* **Yinzhao Yan**, Raymond Chi-Wing Wong, Christian S. Jensen,  
 "*An Efficiently Updatable Path Oracle for Terrain Surfaces*",  
-IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024  
+the IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024  
 [[pdf]](https://yanyinzhao.github.io/files/TKDE2024-UpdatedStructureTerrain-paper.pdf) | [[code]](https://github.com/yanyinzhao/UpdatedStructureTerrainCode) 
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
