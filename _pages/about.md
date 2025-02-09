@@ -115,6 +115,10 @@ Initiative)
 
 ---
 # Teaching Experience
+ * Teaching Assistant, **MSBD 5002 Data Mining and Knowledge Discovery** *HKUST* (Spring 2025)
+
+ * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2025)
+
  * Teaching Assistant, **MSBD 5002 Data Mining and Knowledge Discovery** *HKUST* (Spring 2024)
 
  * Teaching Assistant, **COMP 5331 Knowledge Discovery in Databases** *HKUST* (Fall 2023)
