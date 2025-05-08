@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 # Biography
- I am currently a PhD candidate in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk) (CSE), [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/).
+ I am currently a final-year PhD candidate in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk) (CSE), [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/).
 
  I received my BSc degree in Computer Science in [Hong Kong Baptist University](https://www.hkbu.edu.hk/eng/main/index.jsp) (HKBU) in 2020. My undergraduate research was supervised by [Prof. Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
 
  From Septembers 2018 to January 2019, I was an exchange student at [Leiden University](https://www.universiteitleiden.nl/en) in the Netherlands.
+
+<span style="color:rgb(255, 0, 0)">I am on job market of both academics and industry for Fall 2025. Feel free to send me emails if we are a good fit!</span>
 
 ---
 # Research Interest
@@ -44,22 +46,10 @@ redirect_from:
 ---
 # Work Experience
  * **Intern, Information Technology Department & Student Services Department, UNSW Global Pty. Limited** [June 2018 - Aug 2018] *Sydney, Australia*  
-    * Involved in annual stocktake
-    * Helped with incoming students’ orientation
-    * Designed buttons for the intranet using Photoshop
-    * Participated in software registration by Excel
 
  * **Intern, Sinochem International Tendering Co. Limited** [June 2017 - July 2017] *Beijing, China*  
-    * Wrote tendering documents
-    * Contributed in tender opening & evaluation meeting
-    * Published tendering announcement by ‘China Bidding’ Website
-    * Participated in financial management
 
  * **Intern, Uranus International Education Co. Limited (Prudential)** [Jan 2017 - June 2017] *Hong Kong, China*  
-    * Created a public website for the company
-    * Engaged in writing PRU Quote for client
-    * Responsible for classifying curriculum vitaes by Excel
-    * Drew up an invitation by MAKA
 
 ---
 # Awards and Scholarships
