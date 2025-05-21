@@ -101,7 +101,7 @@ redirect_from:
 * **Program Committee**: SIGMOD24 (Availability & Reproducibility
 Initiative)
 
-* **Reviewer**: TKDE24, SIGSPATIAL23, SSTD23, MDM23, VLDB23, SIGSPATIAL22, ICDM22, VLDB22, SIGSPATIAL21
+* **Reviewer**: SSTD25, TKDE24, SIGSPATIAL23, SSTD23, MDM23, VLDB23, SIGSPATIAL22, ICDM22, VLDB22, SIGSPATIAL21
 
 ---
 # Teaching Experience
