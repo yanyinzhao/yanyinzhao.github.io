@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Yinzhao Yan**, Raymond Chi-Wing Wong,  
+"*Efficient Proximity Queries on Simplified Height Maps*",  
+the 2026 ACM Conference on Management of Data (SIGMOD), Bengaluru India on 31 May - 5 June, 2026
+
 * **Yinzhao Yan**, Raymond Chi-Wing Wong, Christian S. Jensen,  
 "*An Efficiently Updatable Path Oracle for Terrain Surfaces*",  
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024  
