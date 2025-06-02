@@ -98,7 +98,7 @@ redirect_from:
 ---
 # Services
 
-* **Program Committee**: SIGMOD24 (Availability & Reproducibility
+* **Program Committee**: ICDE26, SIGMOD24 (Availability & Reproducibility
 Initiative)
 
 * **Reviewer**: SSTD25, TKDE24, SIGSPATIAL23, SSTD23, MDM23, VLDB23, SIGSPATIAL22, ICDM22, VLDB22, SIGSPATIAL21
