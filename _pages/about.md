@@ -35,23 +35,6 @@ redirect_from:
     * Exchange
 
 ---
-# Research Experience
- * **Research Intern, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology** [Jan 2020 – Aug 2020] *Hong Kong, China*  
-    * Supervisor: Prof. Raymond Chi-Wing Wong  
-
- * **Research Intern, School of Information Studies, McGill University** [June 2019 - Aug 2019] *Montreal, Canada*  
-    * Supervisor: [Prof. Benjamin Fung](http://dmas.lab.mcgill.ca/fung/index.htm) and [Dr. William Kwok Wai Cheung](https://www.comp.hkbu.edu.hk/~william/)  
-    * Area: Deep learning for cybersecurity and vulnerability analysis
-
----
-# Work Experience
- * **Intern, Information Technology Department & Student Services Department, UNSW Global Pty. Limited** [June 2018 - Aug 2018] *Sydney, Australia*  
-
- * **Intern, Sinochem International Tendering Co. Limited** [June 2017 - July 2017] *Beijing, China*  
-
- * **Intern, Uranus International Education Co. Limited (Prudential)** [Jan 2017 - June 2017] *Hong Kong, China*  
-
----
 # Awards and Scholarships
  * **HKUST RedBird Academic Excellence Award for Continuing PhD Students** <ins>*HKD 20000*</ins> (acceptance 68/6842 = 0.99%) provided by *HKUST* [2024]
 
@@ -104,6 +87,23 @@ Initiative)
 * **Reviewer**: SSTD25, TKDE24, SIGSPATIAL23, SSTD23, MDM23, VLDB23, SIGSPATIAL22, ICDM22, VLDB22, SIGSPATIAL21
 
 ---
+# Research Experience
+ * **Research Intern, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology** [Jan 2020 – Aug 2020] *Hong Kong, China*  
+    * Supervisor: Prof. Raymond Chi-Wing Wong  
+
+ * **Research Intern, School of Information Studies, McGill University** [June 2019 - Aug 2019] *Montreal, Canada*  
+    * Supervisor: [Prof. Benjamin Fung](http://dmas.lab.mcgill.ca/fung/index.htm) and [Prof. William Kwok Wai Cheung](https://www.comp.hkbu.edu.hk/~william/)  
+    * Area: Deep learning for cybersecurity and vulnerability analysis
+
+---
+# Work Experience
+ * **Intern, Information Technology Department & Student Services Department, UNSW Global Pty. Limited** [June 2018 - Aug 2018] *Sydney, Australia*  
+
+ * **Intern, Sinochem International Tendering Co. Limited** [June 2017 - July 2017] *Beijing, China*  
+
+ * **Intern, Uranus International Education Co. Limited (Prudential)** [Jan 2017 - June 2017] *Hong Kong, China*  
+
+---
 # Teaching Experience
  * Teaching Assistant, **MSBD 5002 Data Mining and Knowledge Discovery** *HKUST* (Spring 2025)
 
@@ -132,14 +132,20 @@ Initiative)
  * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Fall 2017)
 
 ---
-# Competition
+# Competitions
  * First-runner-up of **IEEE (HK) Computational Intelligence Chapter FYP and PG Paper Competition** [Dec 2020]
 
  * **YDC Dare To Change Business Pitch Competition** [April 2018]
 
  * **Hong Kong Institution of Engineers Joint Student Chapters Competition** [April 2018]
 
- ---
+---
+# Invited Talks
+ * **"Shortest Path Queries on Triangular Irregular Networks and Point Clouds"**, *Shanghai University of Finance and Economics* [16 June 2025] *Shanghai, China*  
+
+ * **"Proximity Queries on Point Clouds using Rapid Construction Path Oracle"**, *The Hang Seng University of Hong Kong* [13 June 2025] *Hong Kong, China*  
+
+---
 # Skills
  * **Programming Languages**: C, C++, Java, Python, JavaScript, SQL and LaTeX
 
