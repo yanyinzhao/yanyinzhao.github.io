@@ -104,32 +104,36 @@ Initiative)
  * **Intern, Uranus International Education Co. Limited (Prudential)** [Jan 2017 - June 2017] *Hong Kong, China*  
 
 ---
+# Project
+ * Project Leader, **Path Advisor** *HKUST* [June 2020 - Aug 2025]
+
+---
 # Teaching Experience
- * Teaching Assistant, **MSBD 5002 Data Mining and Knowledge Discovery** *HKUST* (Spring 2025)
+ * Teaching Assistant, **MSBD 5002 Data Mining and Knowledge Discovery** *HKUST* [Spring 2025]
 
- * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2025)
+ * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* [Spring 2025]
 
- * Teaching Assistant, **MSBD 5002 Data Mining and Knowledge Discovery** *HKUST* (Spring 2024)
+ * Teaching Assistant, **MSBD 5002 Data Mining and Knowledge Discovery** *HKUST* [Spring 2024]
 
- * Teaching Assistant, **COMP 5331 Knowledge Discovery in Databases** *HKUST* (Fall 2023)
+ * Teaching Assistant, **COMP 5331 Knowledge Discovery in Databases** *HKUST* [Fall 2023]
  
- * Teaching Assistant, **CSIT 5210 Data Mining and Knowledge Discovery** *HKUST* (Fall 2023)
+ * Teaching Assistant, **CSIT 5210 Data Mining and Knowledge Discovery** *HKUST* [Fall 2023]
 
- * Teaching Assistant, **CORE 1232 Exploring and Visualizing Data** *HKUST* (Spring 2023)
+ * Teaching Assistant, **CORE 1232 Exploring and Visualizing Data** *HKUST* [Spring 2023]
 
- * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2022)
+ * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* [Spring 2022]
 
- * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* (Spring 2021)
+ * Teaching Assistant, **COMP 1942 Exploring and Visualizing Data** *HKUST* [Spring 2021]
 
- * Assistant, **COMP 2016 Database Management** *HKBU* (Spring 2020)
+ * Assistant, **COMP 2016 Database Management** *HKBU* [Spring 2020]
 
- * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Fall 2019)
+ * Assistant, **COMP 1005 Essence of Computing** *HKBU* [Fall 2019]
 
- * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Spring 2019)
+ * Assistant, **COMP 1005 Essence of Computing** *HKBU* [Spring 2019]
 
- * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Spring 2018)
+ * Assistant, **COMP 1005 Essence of Computing** *HKBU* [Spring 2018]
 
- * Assistant, **COMP 1005 Essence of Computing** *HKBU* (Fall 2017)
+ * Assistant, **COMP 1005 Essence of Computing** *HKBU* [Fall 2017]
 
 ---
 # Competitions
@@ -138,12 +142,6 @@ Initiative)
  * **YDC Dare To Change Business Pitch Competition** [April 2018]
 
  * **Hong Kong Institution of Engineers Joint Student Chapters Competition** [April 2018]
-
----
-# Invited Talks
- * **"Shortest Path Queries on Triangular Irregular Networks and Point Clouds"**, *Shanghai University of Finance and Economics* [16 June 2025] *Shanghai, China*  
-
- * **"Proximity Queries on Point Clouds using Rapid Construction Path Oracle"**, *The Hang Seng University of Hong Kong* [13 June 2025] *Hong Kong, China*  
 
 ---
 # Skills
