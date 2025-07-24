@@ -36,7 +36,9 @@ redirect_from:
 
 ---
 # Awards and Scholarships
- * **HKUST RedBird Academic Excellence Award for Continuing PhD Students** <ins>*HKD 20000*</ins> (acceptance 68/6842 = 0.99%) provided by *HKUST* [2024]
+ * **HKUST RedBird Academic Excellence Award 2024-25 for Continuing PhD Students** <ins>*HKD 20000*</ins> (acceptance 68/6842 = 0.99%) provided by *HKUST* [2025]
+
+ * **HKUST RedBird Academic Excellence Award 2023-24 for Continuing PhD Students** <ins>*HKD 20000*</ins> (acceptance 68/6842 = 0.99%) provided by *HKUST* [2024]
 
  * **Research Travel Grant for SIGMOD 2024** <ins>*HKD 13500*</ins> (acceptance 10/200 = 5%) provided by *HKUST* [2024]
 
