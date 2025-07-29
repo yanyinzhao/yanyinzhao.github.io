@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # Biography
- I am currently a final-year PhD candidate in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk) (CSE), [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/).
+ I obtained my PhD degree in [Computer Science and Engineering](https://cse.hkust.edu.hk) (CSE), [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST) in 2025, supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/).
 
- I received my BSc degree in Computer Science in [Hong Kong Baptist University](https://www.hkbu.edu.hk/eng/main/index.jsp) (HKBU) in 2020. My undergraduate research was supervised by [Prof. Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
+ I obtained my BSc degree in [Computer Science](https://www.comp.hkbu.edu.hk/) in [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html) (HKBU) in 2020, supervised by [Prof. Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
 
  From Septembers 2018 to January 2019, I was an exchange student at [Leiden University](https://www.universiteitleiden.nl/en) in the Netherlands.
 
@@ -23,12 +23,12 @@ redirect_from:
 
 ---
 # Education
- * **PhD, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology** [Aug 2020 - Present] *Hong Kong, China*  
+ * **PhD, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology** [Aug 2020 - Aug 2025] *Hong Kong, China*  
     * Supervisor: Prof. Raymond Chi-Wing Wong  
 
  * **BSc, Department of Computer Science, Hong Kong Baptist University** [Aug 2016 - Jul 2020] *Hong Kong, China*  
-    * First class honours  
-    * Supervisor: Prof. Jiming Liu  
+    * First class honours
+    * Supervisor: Prof. Jiming Liu
     * Top 2% of the class
 
  * **Exchange student, Leiden University** [Sep 2018  - Jan 2019] *Leiden, the Netherlands*  
