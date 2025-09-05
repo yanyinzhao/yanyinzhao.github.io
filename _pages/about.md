@@ -15,7 +15,9 @@ redirect_from:
 
  From Septembers 2018 to January 2019, I was an exchange student at [Leiden University](https://www.universiteitleiden.nl/en) in the Netherlands.
 
-<span style="color:rgb(255, 0, 0)">I am on job market of both academics and industry for Fall 2025. Feel free to send me emails if we are a good fit!</span>
+<!--- 
+Comments are Fun <span style="color:rgb(255, 0, 0)">I am on job market of both academics and industry for Fall 2025. Feel free to send me emails if we are a good fit!</span>
+---> 
 
 ---
 # Research Interest
@@ -37,6 +39,8 @@ redirect_from:
 ---
 # Awards and Scholarships
  * **HKUST RedBird Academic Excellence Award 2024-25 for Continuing PhD Students** <ins>*HKD 20000*</ins> (acceptance 68/6842 = 0.99%) provided by *HKUST* [2025]
+
+ * **Professor Samuel Chanson Best Postgraduate Teaching Assistant (PGTA) Award** <ins>*HKD 10000*</ins> (acceptance 2/446 = 0.45%) provided by *HKUST* [2025]
 
  * **HKUST RedBird Academic Excellence Award 2023-24 for Continuing PhD Students** <ins>*HKD 20000*</ins> (acceptance 68/6842 = 0.99%) provided by *HKUST* [2024]
 
