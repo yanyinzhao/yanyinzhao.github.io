@@ -13,7 +13,7 @@ redirect_from:
 
  I obtained my BSc degree in [Computer Science](https://www.comp.hkbu.edu.hk/) in [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html) (HKBU) in 2020, supervised by [Prof. Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
 
- From Septembers 2018 to January 2019, I was an exchange student at [Leiden University](https://www.universiteitleiden.nl/en) in the Netherlands.
+ From September 2018 to January 2019, I was an exchange student at [Leiden University](https://www.universiteitleiden.nl/en) in the Netherlands.
 
 <!--- 
 Comments are Fun <span style="color:rgb(255, 0, 0)">I am on job market of both academics and industry for Fall 2025. Feel free to send me emails if we are a good fit!</span>
