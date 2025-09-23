@@ -10,6 +10,10 @@ author_profile: true
 the 2026 ACM Conference on Management of Data (SIGMOD), Bengaluru, India on 31 May - 5 June, 2026  
 [[pdf]](https://yanyinzhao.github.io/files/SIGMOD2026-HeightMap-paper.pdf) | [[code]](https://github.com/yanyinzhao/HeightMapPathCode) 
 
+* **Yinzhao Yan**, Raymond Chi-Wing Wong,  
+"*Efficient Path Oracles for Proximity Queries on Point Clouds*",  
+ACM Transactions on Databases Systems (TODS), 2025  [[code]](https://github.com/yanyinzhao/PointCloudOracleCode) 
+
 * **Yinzhao Yan**, Raymond Chi-Wing Wong, Christian S. Jensen,  
 "*An Efficiently Updatable Path Oracle for Terrain Surfaces*",  
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024  
