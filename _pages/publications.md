@@ -15,7 +15,7 @@ the 2026 ACM Conference on Management of Data (SIGMOD), Bengaluru, India on 31 M
 "*Efficient Path Oracles for Proximity Queries on Point Clouds*",  
 ACM Transactions on Databases Systems (TODS), 2025  
 <span style="color:rgb(255, 0, 0)">*CCF-A*</span>  
-[[pdf]](https://yanyinzhao.github.io/files/TODS2025-PointCloudOracles-paperDraft.pdf) | [[code]](https://github.com/yanyinzhao/PointCloudOracleCode) 
+[[pdf]](https://yanyinzhao.github.io/files/TODS2025-PointCloudOracles-paper.pdf) | [[code]](https://github.com/yanyinzhao/PointCloudOracleCode) 
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong, Christian S. Jensen,  
 "*An Efficiently Updatable Path Oracle for Terrain Surfaces*",  
