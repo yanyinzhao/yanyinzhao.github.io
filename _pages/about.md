@@ -87,7 +87,7 @@ Comments are Fun <span style="color:rgb(255, 0, 0)">I am on job market of both a
 ---
 # Services
 
-* **Program Committee**: WWW26, ICDE26, ICDE26 Workshop (KDExLLM), SIGMOD24 (Availability & Reproducibility
+* **Program Committee**: WWW26, ICDE26, ICDE26 (KDExLLM Workshop), SIGMOD24 (Availability & Reproducibility
 Initiative)
 
 * **Reviewer**: SIGSPATIAL25, SSTD25, TKDE24, SIGSPATIAL23, SSTD23, MDM23, VLDB23, SIGSPATIAL22, ICDM22, VLDB22, SIGSPATIAL21
