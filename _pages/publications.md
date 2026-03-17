@@ -13,7 +13,7 @@ the 2026 ACM Conference on Management of Data (SIGMOD), Bengaluru, India on 31 M
 
 * **Yinzhao Yan**,  
 "*Shortest Path Queries on Triangular Irregular Networks and Point Clouds*",  
-PhD Thesis   
+PhD Thesis, 2025   
 [[pdf]](https://yanyinzhao.github.io/files/Thesis.pdf)
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
