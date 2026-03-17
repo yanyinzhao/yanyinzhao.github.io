@@ -11,11 +11,6 @@ the 2026 ACM Conference on Management of Data (SIGMOD), Bengaluru, India on 31 M
 <span style="color:rgb(255, 0, 0)">*CCF-A*</span>    
 [[pdf]](https://yanyinzhao.github.io/files/SIGMOD2026-HeightMap-paper.pdf) | [[code]](https://github.com/yanyinzhao/HeightMapPathCode) 
 
-* **Yinzhao Yan**,  
-"*Shortest Path Queries on Triangular Irregular Networks and Point Clouds*",  
-PhD Thesis, 2025   
-[[pdf]](https://yanyinzhao.github.io/files/Thesis.pdf)
-
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Efficient Path Oracles for Proximity Queries on Point Clouds*",  
 ACM Transactions on Databases Systems (TODS), 2025  
