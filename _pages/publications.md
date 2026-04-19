@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
+"*Efficient Shortest Path Queries on Triangular Irregular Networks and Point Clouds*",  
+the 27th IEEE International Conference on Mobile Data Management (MDM 2026), Athens, Greece on 29 June - 2 July, 2026 (Acceptance XX/80 = XX%)  
+*CCF-C*  
+
+* **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Efficient Proximity Queries on Simplified Height Maps*",  
 the 2026 ACM Conference on Management of Data (SIGMOD), Bengaluru, India on 31 May - 5 June, 2026  
 <span style="color:rgb(255, 0, 0)">*CCF-A*</span>    
