@@ -7,7 +7,7 @@ author_profile: true
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Efficient Shortest Path Queries on Triangular Irregular Networks and Point Clouds*",  
-the 27th IEEE International Conference on Mobile Data Management (MDM 2026), Athens, Greece on 29 June - 2 July, 2026 (Acceptance XX/80 = XX%)  
+the 27th IEEE International Conference on Mobile Data Management (MDM 2026), Athens, Greece on 29 June - 2 July, 2026 (Acceptance 38/133 = 28.57%)  
 *CCF-C*  
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
