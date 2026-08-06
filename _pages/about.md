@@ -38,7 +38,7 @@ Comments are Fun <span style="color:rgb(255, 0, 0)">I am on job market of both a
 
 ---
 # Awards and Scholarships
- * **MDM 2026 Award** <ins>*USD 250*</ins> = <ins>*HKD 1950*</ins> (acceptance 10/38 = 26.31%) provided by *MDM 2026* [2026]
+ * **MDM 2026 Award** <ins>*USD 1000*</ins> = <ins>*HKD 7900*</ins> (acceptance 10/38 = 26.31%) provided by *MDM 2026* [2026]
 
  * **HKUST RedBird Academic Excellence Award 2024-25 for Continuing PhD Students** <ins>*HKD 20000*</ins> (acceptance 68/6842 = 0.99%) provided by *HKUST* [2025]
 

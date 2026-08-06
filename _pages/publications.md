@@ -9,6 +9,7 @@ author_profile: true
 "*Efficient Shortest Path Queries on Triangular Irregular Networks and Point Clouds*",  
 the 27th IEEE International Conference on Mobile Data Management (MDM 2026), Athens, Greece on 29 June - 2 July, 2026 (Acceptance 38/133 = 28.57%)  
 *CCF-C*  
+[[pdf]](https://yanyinzhao.github.io/files/MDM2026-TerrainPointCloud-paper.pdf)
 
 * **Yinzhao Yan**, Raymond Chi-Wing Wong,  
 "*Efficient Proximity Queries on Simplified Height Maps*",  
