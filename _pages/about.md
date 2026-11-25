@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 # Biography
+ I currently work as Senior Researcher in Huawei, Hong Kong Reserach Center.
+
  I obtained my PhD degree in [Computer Science and Engineering](https://cse.hkust.edu.hk) (CSE), [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST) in 2025, supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/).
 
  I obtained my BSc degree in [Computer Science](https://www.comp.hkbu.edu.hk/) in [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html) (HKBU) in 2020, supervised by [Prof. Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
@@ -21,7 +23,12 @@ Comments are Fun <span style="color:rgb(255, 0, 0)">I am on job market of both a
 
 ---
 # Research Interest
- My research interest lies in spatial databases. My current focus is on finding the shortest path on 3D models efficiently.
+ My research interest lies in database and AI. 
+
+---
+# Full-Time Experience
+  * **Senior Researcher, Huawei, Hong Kong Reserach Center** [Sep 2025 – Present] *Hong Kong, China*  
+    * Area: LLM in HarmonyOS phone and PC
 
 ---
 # Education
@@ -89,22 +96,17 @@ Comments are Fun <span style="color:rgb(255, 0, 0)">I am on job market of both a
 ---
 # Services
 
-* **Program Committee**: SIGSPATIAL26, WWW26, ICDE26, ICDE26 (KDExLLM Workshop), SIGMOD24 (Availability & Reproducibility
-Initiative)
-
-* **Reviewer**: MDM26, SIGSPATIAL25, SSTD25, TKDE24, SIGSPATIAL23, SSTD23, MDM23, VLDB23, SIGSPATIAL22, ICDM22, VLDB22, SIGSPATIAL21
+* **Program Committee**: MDM27, SIGSPATIAL26, WWW26, ICDE26, ICDE26 (KDExLLM Workshop), MDM26, SIGSPATIAL25, SSTD25, SIGMOD24 (Availability & Reproducibility Initiative), TKDE24, SIGSPATIAL23, SSTD23, MDM23, VLDB23, SIGSPATIAL22, ICDM22, VLDB22, SIGSPATIAL21
 
 ---
-# Research Experience
- * **Research Intern, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology** [Jan 2020 – Aug 2020] *Hong Kong, China*  
+# Intern Experience
+  * **Research Intern, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology** [Jan 2020 – Aug 2020] *Hong Kong, China*  
     * Supervisor: Prof. Raymond Chi-Wing Wong  
 
  * **Research Intern, School of Information Studies, McGill University** [June 2019 - Aug 2019] *Montreal, Canada*  
     * Supervisor: [Prof. Benjamin Fung](http://dmas.lab.mcgill.ca/fung/index.htm) and [Prof. William Kwok Wai Cheung](https://www.comp.hkbu.edu.hk/~william/)  
     * Area: Deep learning for cybersecurity and vulnerability analysis
 
----
-# Work Experience
  * **Intern, Information Technology Department & Student Services Department, UNSW Global Pty. Limited** [June 2018 - Aug 2018] *Sydney, Australia*  
 
  * **Intern, Sinochem International Tendering Co. Limited** [June 2017 - July 2017] *Beijing, China*  
