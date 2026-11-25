@@ -10,7 +10,7 @@ locale: "en-US"
 title: "YAN Yinzhao"
 title_separator: "-"
 name: &name "YAN Yinzhao"
-#description: &description "Senior Researcher, Huawei, Hong Kong Reserach Center | PhD, Computer Science and Engineering, The Hong Kong University of Science and Technology"
+description: 
 url: https://yanyinzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "yanyinzhao/yanyinzhao.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name: "YAN Yinzhao"
   avatar: "yanyinzhao.png"
-  bio: "PhD, Computer Science and Engineering, The Hong Kong University of Science and Technology"
+  bio: 
   location: "Hong Kong"
   employer:
   pubmed:
